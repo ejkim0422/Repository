@@ -24,7 +24,10 @@ public class Test {
 
 class Test01 {
 	public void test01_add() {
-		
+		//2. 충돌예제 by joyana
+		//충돌 해결법
+		//알려주세요~~~^^
+		//네네네네네?
 	}
 
 	public static void test01_sub() {
