@@ -17,7 +17,9 @@ public class Test {
 	}
 	
 	public static void sub(){
-		
+		//1. 충돌예제
+		// .............
+		// .............
 	}
 
 }
