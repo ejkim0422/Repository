@@ -10,3 +10,9 @@ public abstract class AbstractAnalyzer {
 public void indicator(){
 
 }
+
+
+//after tag master0327
+public void tag() {
+
+}
