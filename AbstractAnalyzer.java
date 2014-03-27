@@ -16,3 +16,9 @@ public void indicator(){
 public void tag() {
 
 }
+
+//add master
+public void master () {
+
+
+}
